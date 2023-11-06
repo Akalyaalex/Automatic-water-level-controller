@@ -128,7 +128,7 @@ digitalWrite(led3, LOW);
 ```
 
 ## CIRCUIT DIAGRAM:
-
+![image](https://github.com/Akalyaalex/Automatic-water-level-controller/assets/114275126/eede6596-970f-422f-81f6-500715b76e57)
 
 ## OUTPUT:
 ![image](https://github.com/Akalyaalex/Automatic-water-level-controller/assets/114275126/e78f1bc4-5e75-4006-8c25-2c1418fce0fa)
